@@ -1,2 +1,3 @@
-# ECDH-exchange-over-socket
+# ECDH exchange over socket
+
 Simple python program to exchange ECDH over socket
